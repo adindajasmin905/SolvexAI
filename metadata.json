@@ -1,0 +1,6 @@
+{
+  "name": "SolvexAI",
+  "description": "Minimalist dark-mode multimodal AI chatbot powered by Gemini 2.5 Flash with voice input, image analysis, and code formatting.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
